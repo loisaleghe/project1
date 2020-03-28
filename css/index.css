@@ -53,7 +53,6 @@ body {
     min-height: 100px;
     border: 1px solid #768b8b;
     color: #768b8b;
-    text-align: center;
 }
 
 #wordSynonymTitle {
@@ -70,7 +69,6 @@ body {
     min-height: 100px;
     border: 1px solid #768b8b;
     color: #768b8b;
-    text-align: center;
 }
 
 #wordAntonymTitle {
