@@ -75,7 +75,7 @@ function displayDefinitions(data) {
 function displaySynonyms(data) {
   for(y=(data.meta.syns.length-1);y>-1;y--) {
     console.log(data.meta.syns[y]);
-    $("#wordSynonymList").after("<li><b>"+data.fl+":</b> "+data.meta.syns[y]+"</li>");
+    $("#wordSynonymList").after("<li><b>"+data.fl+":</b> "+data.meta.syns[y]+" </li>");
     $("li").hide();
   }
 }
